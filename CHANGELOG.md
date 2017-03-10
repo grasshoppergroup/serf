@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+---------------------------------------------------------------------------------------
+
+[1.2.0 - 03-10-2017]()
+
+  * [Modification] [GH Customization] Changes to init.d config to look at -config-dir instead of -config-file
+
 [1.1.0 - 04-06-2016](https://github.com/bbaugher/serf/issues?milestone=15&state=closed)
 ---------------------------------------------------------------------------------------
 
