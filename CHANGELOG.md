@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+[1.3.0 - 8/8/2017]
+  * [Bug] [Chef 13] - Node attribute for kernel machine fix
+
 [1.2.0 - 7/25/2017]
 
   * [Feature] [PAN-1766] (https://jira.grasshopper.com/browse/PAN-1766) : Change serf_service.erb to use -config-dir instead of -config-file
